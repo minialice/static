@@ -1,4 +1,5 @@
 var i18n_en = {
-    title: "title",
-    message: "hello~"
+    title: "Kero Test",
+    message: "hello~ i18n",
+    author: "kero & berony"
 }
